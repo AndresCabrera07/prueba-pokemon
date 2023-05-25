@@ -2,11 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
-    background-color: #db2c2c;
+    background-color: #000000;
+    color: #ffffff;
   }
   
   h1 {
-    color: #333;
+    color: #ffffff;
   }
   
   input {
@@ -23,7 +24,7 @@ body {
     display: flex;
     align-items: center;
     padding: 10px;
-    border: 1px solid #000000;
+    border: 1px solid #ffffff;
     border-radius: 5px;
     margin-bottom: 10px;
   }
@@ -47,13 +48,13 @@ body {
     padding: 5px 10px;
     margin-right: 5px;
     text-decoration: none;
-    color: #333;
-    border: 1px solid #0a0a0a;
+    color: #ffffff;
+    border: 1px solid #ffffff;
     border-radius: 3px;
   }
   
   #pagination a.active {
     background-color: #333;
-    color: #000000;
+    color: #be0404;
   }
   
